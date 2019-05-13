@@ -119,6 +119,14 @@ We can use Python's built-in functions when converting variable types
 
 >**Note：** In actual development, if we don't know the priority, we can use parentheses to ensure the order of execution of the operation.
 
+>**Note：** Placeholder 
+
+	- %s can represent either string , int or float;
+
+	- %d can represent both an int and a float(minus the integer part)
+
+	- %f can represent both float and int integers (6 decimal places by default)(  if we want to 	preserve the n-digit decimal number, we can express it as the bit %.nf)
+  
 """
 Use of operators
 

@@ -35,7 +35,8 @@ I'v already builed Python in Win environment, and then installed many legendary 
 
 #### Day1 practices
 1. import this 
-   OK... Everything should start with a good habit...
+
+   Yes... Everything should start with a good habit...
    
 	"
 	
@@ -80,4 +81,6 @@ I'v already builed Python in Win environment, and then installed many legendary 
 	"
 	
 2. Learn to draw graphics on the screen using turtle.
+
+	import turtle 
 

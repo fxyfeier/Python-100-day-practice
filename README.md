@@ -4,7 +4,7 @@ This practice journey is following Jackfrued (https://github.com/jackfrued) for 
 
 Day1: 
 
-.Background of Python  https://github.com/fxyfeier/Python-100-day-practice/blob/master/Day1/Day1.md
+* [Background of Python](https://github.com/fxyfeier/Python-100-day-practice/blob/master/Day1/Day1.md)  
 
-.Learning to use Gitbub and Github desktop
+* [Learning to use Gitbub and Github desktop]
 

@@ -7,3 +7,9 @@ Day1:
 * [Background of Python](https://github.com/fxyfeier/Python-100-day-practice/blob/master/Day1/Day1.md)  
 
 * Learning to use Gitbub and Github desktop
+
+Day2:
+
+* [Basic-Python elements](https://github.com/fxyfeier/Python-100-day-practice/blob/master/Day02/Day02.md)  
+
+* Learning to use [Vaadin](https://vaadin.com/designer) design UI

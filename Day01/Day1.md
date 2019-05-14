@@ -1,7 +1,7 @@
 
-##Day-1-Background of Python
+## Day-1-Background of Python
 
-####Histort of Python
+#### Histort of Python
 
 1. Christmas 1989: Guido von Rossum started writing a compiler for Python.
 2. 1991.2: The first Python compiler/interpreter was born and ut was implemented in C(followed by the Jython and IronPython versions which implemented by Java and C# respectively.)

@@ -98,6 +98,7 @@ for i in range(1, 10):
 
 #### Practice 3: Print a triangle pattern.
 
+```Python
 """
 *
 **
@@ -117,3 +118,4 @@ for i in range(1, 10):
  *******
 *********
 """
+```

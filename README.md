@@ -18,8 +18,9 @@ This practice journey is following Jackfrued (https://github.com/jackfrued) for 
 
 * [Branch structure](https://github.com/fxyfeier/Python-100-day-practice/blob/master/Day03/Day03.md)  
 
-* Learning to use Django + Vue
 
 [Day4](https://github.com/fxyfeier/Python-100-day-practice/tree/master/Day04):
 
 * [Loop stucture](https://github.com/fxyfeier/Python-100-day-practice/blob/master/Day04/Day04.md)  
+
+* Learning to use Django + Vue

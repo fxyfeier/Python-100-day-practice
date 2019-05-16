@@ -25,8 +25,9 @@ if username == 'admin' and password == '123456':
 else:
 	print('Unsuccessful authentication!')
 
-If we want to construct more branches, we can use the `if...elif...else...` structure, such as the following piecewise function to evaluate.
+
 ```
+If we want to construct more branches, we can use the `if...elif...else...` structure, such as the following piecewise function to evaluate.
 
 ```Python
 
@@ -46,8 +47,8 @@ else:
 print('f(%.2f) = %.2f'%(x,y))
 
 
-Of course, according to the needs of actual development, the branch structure can be nested, and the above code can alsi be written as follows:
 ```
+Of course, according to the needs of actual development, the branch structure can be nested, and the above code can alsi be written as follows:
 
 ```Python
 
@@ -74,9 +75,13 @@ print('f(%.2f) = %.2f' % (x, y))
 #### Practice 3: Conversion between percentage score and grade.
 
 90 points or more    --> A
+
 80~89 points         --> B
+
 70~79 points	     --> C
+
 60~69 points         --> D
+
 60 points or less    --> E
 
 #### Practice 4: Enter the length of the three sides. If can be form a triangle, calculate the perimeter and area.

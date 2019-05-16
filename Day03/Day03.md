@@ -26,9 +26,11 @@ else:
 	print('Unsuccessful authentication!')
 
 If we want to construct more branches, we can use the `if...elif...else...` structure, such as the following piecewise function to evaluate.
+```
 
 ```Python
 
+"""
         3x - 5  (x > 1)
 f(x) =  x + 2   (-1 <= x <= 1)
         5x + 3  (x < -1)
@@ -45,6 +47,7 @@ print('f(%.2f) = %.2f'%(x,y))
 
 
 Of course, according to the needs of actual development, the branch structure can be nested, and the above code can alsi be written as follows:
+```
 
 ```Python
 

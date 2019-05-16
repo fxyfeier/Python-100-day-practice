@@ -27,8 +27,6 @@ else:
 
 If we want to construct more branches, we can use the `if...elif...else...` structure, such as the following piecewise function to evaluate.
 
-$$f(x)=\begin{cases} 3x-5&\text{(x>1)}\\x+2&\text{(-1}\leq\text{x}\leq\text{1)}\\5x+3&\text {(x<-1)}\end{cases}$$
-
 ```Python
 
         3x - 5  (x > 1)

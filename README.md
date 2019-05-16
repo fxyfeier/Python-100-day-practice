@@ -13,3 +13,11 @@ This practice journey is following Jackfrued (https://github.com/jackfrued) for 
 * [Basic-Python elements](https://github.com/fxyfeier/Python-100-day-practice/blob/master/Day02/Day02.md)  
 
 * Learning to use [Vaadin](https://vaadin.com/designer) design UI
+
+[Day3](https://github.com/fxyfeier/Python-100-day-practice/tree/master/Day03):
+
+* [Branch structure](https://github.com/fxyfeier/Python-100-day-practice/blob/master/Day03/Day03.md)  
+
+[Day4](https://github.com/fxyfeier/Python-100-day-practice/tree/master/Day04):
+
+* [Loop stucture](https://github.com/fxyfeier/Python-100-day-practice/blob/master/Day04/Day04.md)  

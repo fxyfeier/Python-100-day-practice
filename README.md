@@ -39,3 +39,8 @@ This practice journey is following Jackfrued (https://github.com/jackfrued) for 
 [Day7](https://github.com/fxyfeier/Python-100-day-practice/tree/master/Day07):
 
 * [Strings and common data structures](https://github.com/fxyfeier/Python-100-day-practice/blob/master/Day04/Day07.md)  
+
+
+[Day8](https://github.com/fxyfeier/Python-100-day-practice/tree/master/Day08):
+
+* [Object oriented programming](https://github.com/fxyfeier/Python-100-day-practice/blob/master/Day04/Day08.md)  

@@ -24,3 +24,18 @@ This practice journey is following Jackfrued (https://github.com/jackfrued) for 
 * [Loop stucture](https://github.com/fxyfeier/Python-100-day-practice/blob/master/Day04/Day04.md)  
 
 * Learning to use Django + Vue
+
+
+[Day5](https://github.com/fxyfeier/Python-100-day-practice/tree/master/Day05):
+
+* [Practice](https://github.com/fxyfeier/Python-100-day-practice/blob/master/Day04/Day05.md)  
+
+
+[Day6](https://github.com/fxyfeier/Python-100-day-practice/tree/master/Day06):
+
+* [Use of functions and modules](https://github.com/fxyfeier/Python-100-day-practice/blob/master/Day06/Day06.md)  
+
+
+[Day7](https://github.com/fxyfeier/Python-100-day-practice/tree/master/Day07):
+
+* [Strings and common data structures](https://github.com/fxyfeier/Python-100-day-practice/blob/master/Day04/Day07.md)  
